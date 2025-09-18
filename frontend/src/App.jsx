@@ -9,7 +9,7 @@ function App() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    setTimeout(() => setLoading(false), 1000); // show loader 1.5s
+    setTimeout(() => setLoading(false), 1500); // show loader 1.5s
   }, []);
 
   return (
