@@ -5,3 +5,5 @@ I used Axios for API Integration
 I used Node/Express for backend 
 All api integarte in backend 
 Applied try catch on every API calls for error handling 
+Deploy Backend on Render.com
+Deploy Frontend on Vercel.com
